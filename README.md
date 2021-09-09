@@ -1,1 +1,2 @@
 # Smartphones-market-analysis-web-scraping-analysis-visualizations
+In this Project We use Python to Scrap data of Smartphones form three E-commerce sites in Egypt (noon-Jumia-Souq),then we joined the three data sets , after joining we strated to clean and analyze the data , then we started to visualize the data with (Tableau ,Power BI ,Google Studio) to give the user an insightful dashboard with many filters that make it easy for him to choose a the best site for the smartphone he looks for.
